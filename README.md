@@ -1,4 +1,4 @@
-# hangaman.py
+# hangman.py
 
 ## Objectives
 
