@@ -2,7 +2,7 @@
 
 ## Objectives
 
-    The game now starts with the menu where players can choose to either play, see their score, or exit;
+    The game starts with the menu where players can choose to either play, see their score, or exit;
     Print Type "play" to play the game, "results" to show the scoreboard, and "exit" to quit: and show this message again if players input something else;
     If players choose play, start the game. When the game is finished (regardless of whether a player wins or not), pop up the menu once again to make the     gameplay seamless;
     If players choose results, print how many games they won, e.g. You won: 0 times, and how many games they lost, e.g. You lost: 25 times;
